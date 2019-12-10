@@ -29,4 +29,4 @@ Bitte bringen Sie zu Ihrem Termin folgendes mit:
 
 * Handtuch
 * Butterbrote
-* 1 Flasche Wasser
+* 5€ in Münzen
