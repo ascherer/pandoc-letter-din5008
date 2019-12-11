@@ -20,8 +20,8 @@ $endfor$
 
 \usepackage{booktabs}
 \usepackage{longtable}
-\usepackage[rm,light]{roboto}
-\usepackage{textcomp} % provides euro and other symbols
+
+\usepackage[right]{eurosym}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
